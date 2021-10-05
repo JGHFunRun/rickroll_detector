@@ -7,6 +7,6 @@ run the main.py file with python (no external requirements needed)
 Input the youtube link you want to check
 It will print "True" if the video is a rickroll, and "false" if its not.
 
-This program can even detect rickrolls in disguise because it not just checks the link but the content too
+This program detects rickrolls in disguise too, pretty consistently, because it not just checks the link but the content too (such as comments, etc.).
 
 Good luck and never get rickrolled again :D
